@@ -9,15 +9,23 @@ html {
 
 body {
     display: table-cell;
-    vertical-align: middle;
 }
 
 h1 {
+  padding-top: 100px;
   padding-bottom: 20px;
   color: purple;
 }
 
+h2 {
+  padding-top: 50px;
+
+}
+
 p {
-	border-bottom: 1px solid #333;
   padding-top: 30px;
+}
+
+#intro{
+  border-bottom: 1px solid #333;
 }
