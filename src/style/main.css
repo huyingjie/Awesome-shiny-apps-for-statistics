@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+h1 {
+  padding-bottom: 20px;
+  color: purple;
+}
+
+p {
+	border-bottom: 1px solid #333;
+  padding-top: 30px;
+}
