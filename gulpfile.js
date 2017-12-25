@@ -7,5 +7,5 @@ gulp.task('default', function () {
     return gulp.src('README.md')
         .pipe(markdown())
         .pipe(rename("index.html"))
-        .pipe(gulp.dest('public'));
+        .pipe(gulp.dest(''));
 });
