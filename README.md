@@ -8,7 +8,7 @@
 * help teachers teach basic statistics to their students.
 * help self-learners to visualize statistics concepts.
 
-<div align="center" style="padding-bottom:10px"> <a href="https://travis-ci.org/huyingjie/Awesome-shiny-apps-for-basic-statistics"><img src="https://travis-ci.org/huyingjie/Awesome-shiny-apps-for-basic-statistics.svg?branch=master"></a> </div>
+<div align="center" style="padding-bottom:10px"> <a href="https://travis-ci.org/huyingjie/Awesome-shiny-apps-for-basic-statistics"><img src="https://travis-ci.org/huyingjie/Awesome-shiny-apps-for-statistics.svg?branch=master"></a> </div>
 
 <div align="center">
 	<a href="#Help-Wanted">Help Wanted</a>&nbsp;&nbsp;&nbsp;
@@ -160,7 +160,7 @@ Several ways you can help
 3. Delete links to low-quality shiny apps
 4. Design the appearance of [the website](http://asas.yingjiehu.com)
 
-Please adhere to the [contribution guidelines](https://github.com/huyingjie/Awesome-shiny-apps-for-basic-statistics/blob/master/CONTRIBUTING.md).
+Please adhere to the [contribution guidelines](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics/blob/master/CONTRIBUTING.md).
 
 ## License
 
