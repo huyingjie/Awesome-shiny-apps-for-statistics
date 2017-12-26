@@ -5,6 +5,7 @@ html, body {
 html {
     display: table;
     margin: auto;
+    width: 800px
 }
 
 body {
@@ -17,10 +18,7 @@ h1 {
   color: purple;
 }
 
-h2 {
-  padding-top: 50px;
 
-}
 
 p {
   padding-top: 30px;
