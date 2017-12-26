@@ -152,10 +152,13 @@
 
 Several ways you can help
 
-1. Add latest and greatest shiny apps for statistics
-2. Delete broken links to shiny apps
-3. Delete links to low-quality shiny apps
+1. Add latest and greatest Shiny Apps that explain statistics concepts
+2. Delete broken links to Shiny Apps
+3. Delete links to low-quality Shiny Apps
 4. Design the appearance of [the website](http://asas.yingjiehu.com)
+5. Fix any typo
+6. Rewrite the title and description of any Shiny Apps to make them more easily understood
+7. Suggest different ways to categorize
 
 Please adhere to the [contribution guidelines](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics/blob/master/CONTRIBUTING.md).
 
