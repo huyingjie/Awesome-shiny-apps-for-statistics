@@ -31,14 +31,14 @@
 * [Common Statistic](#Common-Statistic)
 * [Common Distribution](#Common-Distribution)
 * [Random Samples](#Random-Samples)
-* [Two groups or multiple groups comparison](#Two-groups-or-multiple-groups-comparison)
+* [Two Groups or Multiple Groups Comparison](#Two-groups-or-multiple-groups-comparison)
 * [Hypothesis Testing](#Hypothesis-Testing)
 * [Linear Regression](#Linear-Regression)
-* [Nonlinear models for continous variables](#Nonlinear-models-for-continous-variables)
+* [Nonlinear Models for Continous Variables](#Nonlinear-models-for-continous-variables)
 * [Categorical Models](#Categorical-Models)
 * [Survival Model](#Survival-Model)
 * [Bayesian Analysis](#Bayesian-Analysis)
-* [Longitudinal Analysis](#Longitudinal Analysis)
+* [Longitudinal Analysis](#Longitudinal-Analysis)
 * [Test Analysis](#Test-Analysis)
 * [Complete Data Analysis](#Complete-Data-Analysis)
 * [Help Wanted](#Help-Wanted)
@@ -64,18 +64,14 @@
 
 <a id="Common-Distribution"></a>
 ## Common Distribution
-* Common distributions
-	* uniform
-	* nomal
-	* binomial
-	* Student's T
-	* F
-	* Chi-square
-* Shiny
-	
+* [Uniform](https://shiny.rstudio.com/gallery/single-file-shiny-app.html)
+* Normal
+* Binomial
+* [Student's T](https://gallery.shinyapps.io/tdist/)
+* F
+* Chi-square
+* Shiny Apps including more than one distribution
 	* [Nomral, Binomial, Student's T, F, Chi-square](https://gallery.shinyapps.io/dist_calc/)
-	* [Uniform](https://shiny.rstudio.com/gallery/single-file-shiny-app.html)
-	* [Student's T](https://gallery.shinyapps.io/tdist/)
 
 <a id="Random-Samples"></a>
 ## Random Samples
@@ -114,7 +110,7 @@
 	* [Meta analysis](http://kylehamilton.net/shiny/MAVIS/) | [Code](https://github.com/kylehamilton/MAVIS)
 
 <a id="Nonlinear-models-for-continous-variables"></a>
-## Nonlinear models for continous variables
+## Nonlinear Models for Continous Variables
 
 ### K-means Clustering
 * [Estimate K](https://gallery.shinyapps.io/kcompshiny/)
@@ -136,7 +132,7 @@
 * [Bayesian Inference](http://lmpp10e-mucesm.srv.mwn.de:3838/felix/BayesLessons/BayesianLesson1.Rmd)
 * [Posterior distribution](https://ahalterman.shinyapps.io/BayesCalculator/) | [Documentation](https://andrewhalterman.com/2014/04/02/good-judgement-project-and-bayes/) - Calculate posterior distribution based on different priors
 
-<a id="Longitudinal Analysis"></a>
+<a id="Longitudinal-Analysis"></a>
 ## Longitudinal Analysis
 * [Longitudinal data exploration](http://slider.parisgeo.cnrs.fr/)
 
