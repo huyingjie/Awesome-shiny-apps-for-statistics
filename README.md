@@ -97,7 +97,7 @@
 * [Calculate power](http://www.statstudio.net/free-tools/power-analysis/) - Calculat the power of a statistical hypothesis test for a two-sided symmetrical test and show how statistical power is related to the p-value and the significance level.
 * [Trade Off](https://casertamarco.shinyapps.io/power/) - Visualize the trade off between type I and type II errors in a Null Hypothesis Significance Test (NHST). 
 
-<a id="Linear-Regression">		
+<a id="Linear-Regression"></a>		
 ## Linear Regression
 * [Simple linear regression](https://gallery.shinyapps.io/simple_regression/)
 * [Sum of Square in simple linear regression](https://paternogbc.shinyapps.io/SS_regression/) | [Code](https://github.com/paternogbc/SSregression) - Explore how sums of squares are calculated in simple linear regressions.
@@ -112,7 +112,7 @@
 	* [Residual error models](http://model.webpopix.org/model/individual/residualError.html)
 	* [Meta analysis](http://kylehamilton.net/shiny/MAVIS/) | [Code](https://github.com/kylehamilton/MAVIS)
 
-<a id="Nonlinear-models-for-continous-variables">
+<a id="Nonlinear-models-for-continous-variables"></a>
 ## Nonlinear models for continous variables
 
 ### K-means Clustering
@@ -120,7 +120,7 @@
 * K-means Clustering
 	* [Iris dataset](https://shiny.rstudio.com/gallery/kmeans-example.html)
 
-<a id="Categorical-Models">
+<a id="Categorical-Models"></a>
 ## Categorical Models
 * [Relationship between test accuracy, precision, sensitivity, and specificity](https://www.showmeshiny.com/predictive-value/)
 
@@ -128,7 +128,7 @@
 ## Survival Model
 * [Hazard model](http://shiny.webpopix.org/survival/hazard1/)
 
-<a id="Bayesian-Analysis">
+<a id="Bayesian-Analysis"></a>
 ## Bayesian Analysis
 * [Bayes factors](http://lmpp10e-mucesm.srv.mwn.de:3838/felix/feel_BF2/)
 * [Robustness analysis for Bayes factors: Two sample t test](http://shinyapps.org/showapp.php?app=http://lmpp10e-mucesm.srv.mwn.de:3838/felix/BF_robustness&by=Felix%20Sch%C3%B6nbrodt&title=Bayes%20factor%20robustness&shorttitle=Bayes%20factor%20robustness)
