@@ -3,7 +3,7 @@
 <div style="text-align: right;"> <a href = "https://www.rstudio.com"><img src="https://www.rstudio.com/wp-content/uploads/2014/04/shiny.png" align="right" width="100"></a></div>
 
 
-<p id="intro">A curated list of awesome Shiny Apps for basic statistics (ASAS) can </p>
+<p id="intro">A curated list of awesome Shiny Apps for statistics (ASAS) can </p>
 
 * help teachers teach basic statistics to their students.
 * help self-learners to visualize statistics concepts.
@@ -11,9 +11,10 @@
 <div align="center" style="padding-bottom:10px"> <a href="https://travis-ci.org/huyingjie/Awesome-shiny-apps-for-basic-statistics"><img src="https://travis-ci.org/huyingjie/Awesome-shiny-apps-for-statistics.svg?branch=master"></a> </div>
 
 <div align="center">
+	<a href="http://asas.yingjiehu.com/">Website</a>&nbsp;&nbsp;&nbsp;
 	<a href="#Help-Wanted">Help Wanted</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://github.com/huyingjie/Awesome-shiny-apps-for-basic-statistics/graphs/contributors">Contributors</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.patreon.com/yingjiehu" target="_blank">Donation</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://www.patreon.com/yingjiehu" target="_blank">Donation</a>
 </div>
 
 
