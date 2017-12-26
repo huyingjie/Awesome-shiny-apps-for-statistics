@@ -157,7 +157,7 @@ Several ways you can help
 3. Delete links to low-quality Shiny Apps
 4. Design the appearance of [the website](http://asas.yingjiehu.com)
 5. Fix any typo
-6. Rewrite the title and description of any Shiny Apps to make them more easily understood
+6. Rewrite the title and description of any Shiny App to make them more easily understood
 7. Suggest different ways to categorize
 
 Please adhere to the [contribution guidelines](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics/blob/master/CONTRIBUTING.md).
