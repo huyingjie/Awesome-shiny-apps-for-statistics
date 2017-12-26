@@ -8,7 +8,7 @@
 * help teachers teach basic statistics to their students.
 * help self-learners to visualize statistics concepts.
 
-<div align="center" style="padding-bottom:10px"> <a href="https://travis-ci.org/huyingjie/Awesome-shiny-apps-for-basic-statistics"><img src="https://travis-ci.org/huyingjie/Awesome-shiny-apps-for-statistics.svg?branch=master"></a> </div>
+<div align="center" style="padding-bottom:10px"> <a href="https://travis-ci.org/huyingjie/Awesome-shiny-apps-for-basic-statistics"><img src="https://travis-ci.org/huyingjie/Awesome-shiny-apps-for-basic-statistics.svg?branch=master"></a> </div>
 
 <div align="center">
 	<a href="http://asas.yingjiehu.com/">Website</a>&nbsp;&nbsp;&nbsp;
