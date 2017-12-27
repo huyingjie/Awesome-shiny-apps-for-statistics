@@ -14,7 +14,8 @@
 	<a href="http://asas.yingjiehu.com/">Website</a>&nbsp;&nbsp;&nbsp;
 	<a href="#Help-Wanted">Help Wanted</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://github.com/huyingjie/Awesome-shiny-apps-for-basic-statistics/graphs/contributors">Contributors</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.patreon.com/yingjiehu" target="_blank">Donation</a>
+	<a href="https://www.patreon.com/yingjie" target="_blank">Donation</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://www.patreon.com/yingjie" target="_blank">Become a Sponsor</a>
 </div>
 
 
