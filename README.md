@@ -117,6 +117,8 @@
 * [Robustness analysis for Bayes factors: Two sample t test](http://shinyapps.org/showapp.php?app=http://lmpp10e-mucesm.srv.mwn.de:3838/felix/BF_robustness&by=Felix%20Sch%C3%B6nbrodt&title=Bayes%20factor%20robustness&shorttitle=Bayes%20factor%20robustness)
 * [Bayesian Inference](http://lmpp10e-mucesm.srv.mwn.de:3838/felix/BayesLessons/BayesianLesson1.Rmd)
 * [Posterior distribution](https://ahalterman.shinyapps.io/BayesCalculator/) | [Documentation](https://andrewhalterman.com/2014/04/02/good-judgement-project-and-bayes/) - Calculate posterior distribution based on different priors
+* Hypothesis Testing
+	* [Binomial & Normal Distribution](https://cidlab.shinyapps.io/Build-A-Bayes/)
 
 ## <a id="Longitudinal-Analysis"></a>Longitudinal Analysis
 * [Longitudinal data exploration](http://slider.parisgeo.cnrs.fr/)
@@ -134,13 +136,14 @@
 
 Several ways you can help
 
-1. Add latest and greatest Shiny Apps that explain statistics concepts
-2. Delete broken links to Shiny Apps
-3. Delete links to low-quality Shiny Apps
-4. Design the appearance of [the website](http://asas.yingjiehu.com)
-5. Fix any typo
-6. Rewrite the title or description of any Shiny App to make them more easily understood
-7. Suggest different ways to categorize
+1. Create a Shiny App that explains the statistics concept missing on the list
+2. Add latest and greatest Shiny Apps that explain statistics concepts
+3. Delete broken links to Shiny Apps
+4. Delete links to low-quality Shiny Apps
+5. Design the appearance of [the website](http://asas.yingjiehu.com)
+6. Fix any typo
+7. Rewrite the title or description of any Shiny App to make them more easily understood
+8. Suggest different ways to categorize
 
 Please adhere to the [contribution guidelines](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics/blob/master/CONTRIBUTING.md).
 
